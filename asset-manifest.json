@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shopping-online/static/css/main.9d5960b1.chunk.css",
+    "main.js": "/shopping-online/static/js/main.803b0f3e.chunk.js",
+    "main.js.map": "/shopping-online/static/js/main.803b0f3e.chunk.js.map",
+    "runtime-main.js": "/shopping-online/static/js/runtime-main.4ef0ef37.js",
+    "runtime-main.js.map": "/shopping-online/static/js/runtime-main.4ef0ef37.js.map",
+    "static/js/2.b2d28e8c.chunk.js": "/shopping-online/static/js/2.b2d28e8c.chunk.js",
+    "static/js/2.b2d28e8c.chunk.js.map": "/shopping-online/static/js/2.b2d28e8c.chunk.js.map",
+    "index.html": "/shopping-online/index.html",
+    "static/css/main.9d5960b1.chunk.css.map": "/shopping-online/static/css/main.9d5960b1.chunk.css.map",
+    "static/js/2.b2d28e8c.chunk.js.LICENSE.txt": "/shopping-online/static/js/2.b2d28e8c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef0ef37.js",
+    "static/js/2.b2d28e8c.chunk.js",
+    "static/css/main.9d5960b1.chunk.css",
+    "static/js/main.803b0f3e.chunk.js"
+  ]
+}
