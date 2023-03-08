@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cfd-react-shop/static/css/main.9d5960b1.chunk.css",
+    "main.js": "/cfd-react-shop/static/js/main.484b224f.chunk.js",
+    "main.js.map": "/cfd-react-shop/static/js/main.484b224f.chunk.js.map",
+    "runtime-main.js": "/cfd-react-shop/static/js/runtime-main.c8dbdf99.js",
+    "runtime-main.js.map": "/cfd-react-shop/static/js/runtime-main.c8dbdf99.js.map",
+    "static/js/2.2fc6a110.chunk.js": "/cfd-react-shop/static/js/2.2fc6a110.chunk.js",
+    "static/js/2.2fc6a110.chunk.js.map": "/cfd-react-shop/static/js/2.2fc6a110.chunk.js.map",
+    "index.html": "/cfd-react-shop/index.html",
+    "static/css/main.9d5960b1.chunk.css.map": "/cfd-react-shop/static/css/main.9d5960b1.chunk.css.map",
+    "static/js/2.2fc6a110.chunk.js.LICENSE.txt": "/cfd-react-shop/static/js/2.2fc6a110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8dbdf99.js",
+    "static/js/2.2fc6a110.chunk.js",
+    "static/css/main.9d5960b1.chunk.css",
+    "static/js/main.484b224f.chunk.js"
+  ]
+}

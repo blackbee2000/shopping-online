@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/assets/custom.scss"],"names":[],"mappings":"AAAA,YACI,SAAA,CACA,cAAA,CACA,cAAA","file":"main.9d5960b1.chunk.css","sourcesContent":[".error-text{\n    color: red;\n    font-size: 16px;\n    margin-top: 5px;\n}"]}
